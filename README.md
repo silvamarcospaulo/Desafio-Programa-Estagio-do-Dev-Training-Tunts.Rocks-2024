@@ -1,4 +1,4 @@
-# [Engenharia de Software - Desafio de Marcos Paulo Silva]
+# Engenharia de Software - Desafio de Marcos Paulo Silva
 
 **PROCESSO SELETIVO – DESAFIO DE PROGRAMAÇÃO – NÍVEL 1**
 
